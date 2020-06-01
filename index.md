@@ -8,5 +8,10 @@ Instagram: @neharavuri
 
 Twitter: @NehaRavuri
 
-# My Brag Sheet Information
-I am a rising senior in high school and this is my website! I am involved in a variety of extracurriculars inside and outside of school! I am the Vice President of Science Honor Society, as well as a member of multiple other honor societies. I dance in an organization known as Indian Cultural Society and am a part of the executive board of a volunteer organization known as Youth Council!
+# Cool Stuff about Me
+- I like to play basketball in my free time and also used to play for the school team
+- In the future, I want to learn more about computer science and hopefully pursue a career in this area
+-I have a mini goldendoodle, who just turned one year old
+- Some of my hobbies include reading, dancing, and talking to my friends 
+-I am vice president of Science Honor Society and on the exec board for a volunteer organization known as Youth Council
+- Favorite Food is definitely onion rings!!!
