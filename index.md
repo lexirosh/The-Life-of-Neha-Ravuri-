@@ -1,7 +1,8 @@
 # Welcome to my blog
 
 My name is Neha Ravuri and this is my final project for APCSP!
-<img src="pic.jpg" width="400">
+
+<img src="pic.jpg" width="300">
 
 # Social Media Information
 
